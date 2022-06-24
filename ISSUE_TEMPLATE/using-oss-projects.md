@@ -9,7 +9,7 @@ https://stackoverflow.com/
    - Security vulnerabilities are addressed in a timely manner
    - Project shows regular activity
    - Bugs reported in issues are addressed promptly
-
+   - you should be cool to each other
 ## Internal Process
 
 - [ ] Notify the xyz team that you intend to use this project
