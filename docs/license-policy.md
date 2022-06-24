@@ -6,7 +6,7 @@
 - For documentation projects, we use yy
 
 ### Acceptable Licenses
-
+BSD Zero Clause License
 If you are using or contributing to an open source project as a part of your day-to-day role, our legal team has provided the following guidelines for the most common  licenses:
 
 |  License | Using |  Contributing |
